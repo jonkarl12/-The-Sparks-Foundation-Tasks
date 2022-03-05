@@ -83,7 +83,7 @@ _Please click on the images on right side to view my solution (preferably youtub
 1. Screen record the completed storyboard along with your audio explaining the charts and giving recommendations.
 1. Dataset: Daily updated .csv file on [https://bit.ly/30d2gdi](https://bit.ly/30d2gdi)
 
-You can view all the tasks on my [youtube playlist](https://www.youtube.com/playlist?list=PLWA7Ml8Rq3KfV6QSeO_Hr9t0xbfc-Xdg2) as well.
+You can view all the tasks on my [youtube playlist]() as well.
 
  ### References -
  - [Tableau](https://help.tableau.com/v2018.3/offline/en-us/tableau_desktop.pdf) 
