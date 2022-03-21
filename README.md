@@ -56,9 +56,6 @@ _Please click on the images on right side to view my solution._
 1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
 
 
-
-You can view all the tasks on my [youtube playlist]() as well.
-
  ### References -
  - [Tableau](https://help.tableau.com/v2018.3/offline/en-us/tableau_desktop.pdf) 
  - [Scikit Learn](https://scikit-learn.org/stable/)
