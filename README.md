@@ -46,7 +46,7 @@ _Please click on the images on right side to view my solution (preferably youtub
 1. Dataset link :[https://bit.ly/3i4rbWl](https://bit.ly/3i4rbWl)
 1. Create storyboards. Screen record along with your audio explaining the charts and interpretations.
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/PLASL3p3i3Y)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/dQa9r7NparA)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/jonkarl12/-The-Sparks-Foundation-Tasks/blob/main/TASK%206.ipynb)
 ### # Task-6 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 _Please click on the images on right side to view my solution._
